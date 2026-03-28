@@ -43,7 +43,7 @@ This project demonstrates how to configure **OSPF (Open Shortest Path First)** r
 |        | g0/1: 192.168.4.1/24           |           |           |
 
 > Full router configuration files are included in the `configs/` folder:
-> - `R1.txt`  
+>  Configs/R1.txt  
 > - `R2.txt`  
 > - `R3.txt`  
 
